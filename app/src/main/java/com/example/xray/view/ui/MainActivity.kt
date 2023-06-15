@@ -1,8 +1,9 @@
-package com.example.xray
+package com.example.xray.view.ui
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
+import com.example.xray.R
 import com.example.xray.databinding.ActivityMainBinding
 
 
